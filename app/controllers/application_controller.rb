@@ -12,4 +12,3 @@ protected
    devise_parameter_sanitizer.for(:account_update) << :name
  	end
 end
-
